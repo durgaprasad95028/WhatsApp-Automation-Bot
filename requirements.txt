@@ -1,0 +1,5 @@
+# WhatsApp Automation Bot — Python dependencies
+# Install with: pip install -r requirements.txt
+
+mysql-connector-python==9.2.0
+selenium==4.27.1
